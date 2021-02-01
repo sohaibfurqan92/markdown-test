@@ -92,3 +92,5 @@ def add(num1, num2):
 * [x] Task 2
 * [ ] Task 3
 
+A [Github cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) for markdown is also available!
+
